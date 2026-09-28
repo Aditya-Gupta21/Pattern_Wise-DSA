@@ -1,0 +1,4 @@
+Here is practice the PATTERN_WISE DSA 
+
+1. TWO POINTER APPROCH 
+2. 
